@@ -35,7 +35,7 @@ public class Client implements Serializable {
 		this.birthDate = birthDate;
 		this.children = children;
 	}
-
+	
 	public Long getId() {
 		return id;
 	}
